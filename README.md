@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on crop recommendation and farm management system<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning kivy application development, java basics, kotlin programing<br>💬 Ask me programing<br>⚡ Fun facts: <br>
-``✴️The more truth you know, the more you are, the more you understand, and the greater is your capacity to love.``<br>
-``😇In the mind of the Universal Father, there is a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life.``<br>
-``🌀Difficulties may challenge mediocrity and defeat the fearful, but they only stimulate the true children of the Most Highs.``
+🔭 I’m currently working on NetPilot - An advanced security auditing, information harvesting and privacy enforcement tool.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning kivy application development, ``Electron``, <br>💬 Ask me programing<br>⚡ Fun facts: <br>
+``🚀 "Software is like magic. We write words, and the computer turns them into something real." — Unknown``<br>
+``🎨 "Coding is not just about writing code. It's about solving problems, thinking logically, and creating something new." — Unknown``<br>
+``🧠 "The mind is not a vessel to be filled but a fire to be kindled." — Plutarch``<br>
 
 
 ## 🌐 Socials:
