@@ -27,5 +27,6 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Zakayo wambua)
 
-
+## Milestones
+[![Build Electron App](https://github.com/skye-cyber/QuickAi/actions/workflows/build.yml/badge.svg?event=issues)](https://github.com/skye-cyber/QuickAi/actions/workflows/build.yml)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
