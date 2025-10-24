@@ -77,7 +77,7 @@ I'm a passionate full-stack developer and cybersecurity enthusiast with a deep l
 
 | Project | Description | Status | Tech Stack |
 |---------|-------------|--------|------------|
-| **[QuickAI](https://github.com/skye-cyber/QuickAi)** | Your thinking partner with voice superpowers | ![Active](https://img.shields.io/badge/🚀_Live-brightgreen) | `Python` `OpenAI` `SpeechRecognition` `Voice` |
+| **[IntelliDesk](https://github.com/skye-cyber/IntelliDesk)** | Your thinking partner with voice superpowers | ![Active](https://img.shields.io/badge/🚀_Live-brightgreen) | `Python` `OpenAI` `SpeechRecognition` `Voice` |
 | **[Candisys](https://github.com/skye-cyber/candisys)** | AI that reads market patterns like a Wall Street pro | ![Active](https://img.shields.io/badge/📈_Trading-blue) | `Python` `ML` `Pandas` `Finance` `Analysis` |
 
 </div>
