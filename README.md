@@ -204,7 +204,7 @@ I believe in:
 
 *"Behind every great tool is countless cups of coffee"*
 
-[![PayPal](https://custom-icon-badges.demolab.com/badge/💝_Buy_Me_Coffee-00457C?style=for-the-badge&logo=coffee&logoColor=white)](https://paypal.me/Zakayo wambua)
+[![PayPal](https://custom-icon-badges.demolab.com/badge/💝_Buy_Me_Coffee-00457C?style=for-the-badge&logo=coffee&logoColor=white)]([https://paypal.me/'Zakayo wambua'](https://www.paypal.com/donate/?hosted_button_id=HA253A4H2VAB6))
 [![GitHub Sponsors](https://custom-icon-badges.demolab.com/badge/⭐_Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/skye-cyber)
 
 </div>
