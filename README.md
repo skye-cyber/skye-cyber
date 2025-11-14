@@ -77,8 +77,8 @@ I'm a passionate full-stack developer and cybersecurity enthusiast with a deep l
 
 | Project | Description | Status | Tech Stack |
 |---------|-------------|--------|------------|
-| **[IntelliDesk](https://github.com/skye-cyber/IntelliDesk)** | Your thinking partner with voice superpowers | ![Active](https://img.shields.io/badge/🚀_Live-brightgreen) | `Python` `OpenAI` `SpeechRecognition` `Voice` |
-| **[Candisys](https://github.com/skye-cyber/candisys)** | AI that reads market patterns like a Wall Street pro | ![Active](https://img.shields.io/badge/📈_Trading-blue) | `Python` `ML` `Pandas` `Finance` `Analysis` |
+| **[IntelliDesk](https://github.com/skye-cyber/IntelliDesk)** | Ai powered desktop agent supporting multimodal tasks. | ![Active](https://img.shields.io/badge/🚀_Live-brightgreen) | `Python` `Mistral` `SpeechRecognition` `Voice` `API` `React` `Electron` |
+| **[Candisys](https://github.com/skye-cyber/candisys)** | AI powered Job applicants Candidate Information System | ![Active](https://img.shields.io/badge/📈_Trading-blue) | `Python` `ML` `Pandas` `Scikit-Learn` `Analysis` |
 
 </div>
 
@@ -88,8 +88,8 @@ I'm a passionate full-stack developer and cybersecurity enthusiast with a deep l
 
 | Project | Description | Status | Tech Stack |
 |---------|-------------|--------|------------|
-| **[EncryptionSuite](https://github.com/skye-cyber/Encryptionsuite)** | Digital vault for your secrets with multiple algorithms | ![Active](https://img.shields.io/badge/🛡_Secure-green) | `Python` `Cryptography` `AES` `RSA` `Security` |
-| **[NetPilot](https://github.com/skye-cyber/NetPilot)** | Advanced security auditing & privacy enforcement tool | ![Building](https://img.shields.io/badge/🔨_Building-orange) | `Python` `Security` `Networking` `Privacy` |
+| **[EncryptionSuite](https://github.com/skye-cyber/Encryptionsuite)** | Adavanced encryption tool employing modern encryption techniques for data obfuscication and file security | ![Active](https://img.shields.io/badge/🛡_Secure-green) | `Python` `Cryptography` `AES` `RSA` `Security` |
+| **[NetPilot](https://github.com/skye-cyber/NetPilot)** | Advanced security auditing & privacy enforcement tool | ![Building](https://img.shields.io/badge/🔨_Building-orange) | `Python` `Security` `Networking` `Privacy` `Pot Scanning` `Ping` |
 
 </div>
 
@@ -100,7 +100,7 @@ I'm a passionate full-stack developer and cybersecurity enthusiast with a deep l
 | Project | Description | Status | Tech Stack |
 |---------|-------------|--------|------------|
 | **[GraphPy](https://github.com/skye-cyber/graphpy)** | Pure Python graph visualization alternative to Graphviz | ![Active](https://img.shields.io/badge/📊_Visualize-purple) | `Python` `DataViz` `SVG` `Graphs` |
-| **[FileMAC](https://github.com/skye-cyber/FileMAC)** | Multimedia file operation toolkit with batch processing | ![Active](https://img.shields.io/badge/🔄_Convert-blue) | `Python` `CLI` `Media` `Batch` `File Management` |
+| **[FileMAC](https://github.com/skye-cyber/FileMAC)** | Multimedia file operation toolkit with file conversions, analysis and manipulation | ![Active](https://img.shields.io/badge/🔄_Convert-blue) | `Python` `CLI` `Media` `Batch` `File Management` |
 | **[DistriChat](https://github.com/skye-cyber/districhat)** | Distributed real-time chat application | ![Active](https://img.shields.io/badge/💬_Chat-green) | `Django` `WebSockets` `JavaScript` `Real-time` |
 
 </div>
@@ -111,9 +111,9 @@ I'm a passionate full-stack developer and cybersecurity enthusiast with a deep l
 
 | Project | Description | Status | Tech Stack |
 |---------|-------------|--------|------------|
-| **[DotFlow](https://github.com/skye-cyber/dotflow)** | Workflow automation with dependency resolution | ![Active](https://img.shields.io/badge/⚡_Automate-yellow) | `Python` `Automation` `YAML` |
-| **[PyMMDC](https://github.com/skye-cyber/pymmdc)** | Multimedia converter with batch processing | ![Active](https://img.shields.io/badge/🎵_Convert-blue) | `Python` `FFmpeg` `Audio/Video` |
-| **[SonicSlicer](https://github.com/skye-cyber/sonicslicer)** | Audio processing and analysis tool | ![Active](https://img.shields.io/badge/🎧_Process-green) | `Python` `Librosa` `Signal Processing` |
+| **[DotFlow](https://github.com/skye-cyber/dotflow)** | A Python-based DOT language interpreter with multiple API styles for creating flowcharts and diagrams effortlessly.  | ![Active](https://img.shields.io/badge/⚡_Automate-yellow) | `Python` `Automation` `YAML` |
+| **[PyMMDC](https://github.com/skye-cyber/pymmdc)** | A robust, local-only Mermaid to PNG converter with comprehensive Markdown processing support | ![Active](https://img.shields.io/badge/🎵_Convert-blue) | `Python` `FFmpeg` `Audio/Video` |
+| **[SonicSlicer](https://github.com/skye-cyber/sonicslicer)** | Audio processing and analysis tool-Split and trim audio files base on time or size  | ![Active](https://img.shields.io/badge/🎧_Process-green) | `Python` `Librosa` `Signal Processing` |
 
 </div>
 
