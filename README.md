@@ -148,9 +148,11 @@ I'm a passionate full-stack developer and cybersecurity enthusiast with a deep l
 <div align="center">
 
 [![Build Electron App](https://img.shields.io/badge/QuickAI_Build-Passing-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/skye-cyber/QuickAi/actions/workflows/build.yml)
+[![Build Electron App](https://img.shields.io/badge/IntelliDesk_Build-Passing-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/skye-cyber/IntelliDesk/actions/workflows/build.yml)
+[![Build Electron App](https://img.shields.io/badge/SmartSketch_Build-Passing-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/skye-cyber/SmartSketch/actions/workflows/build.yml)
 
 ### **Recent Contributions Impact**
-![](https://github-contributor-stats.vercel.app/api?username=skye-cyber&limit=5&theme=dark&combine_all_yearly_contributions=true&show_icons=true)
+![](https://github-contributor-stats.vercel.app/api?username=skye-cyber&limit=10&theme=dark&combine_all_yearly_contributions=true&show_icons=true)
 
 </div>
 
